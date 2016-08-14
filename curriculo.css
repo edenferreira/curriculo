@@ -1,6 +1,18 @@
 .main {
     width: 100vw;
-    padding: 8px;
+    padding: 12px;
+}
+
+.article__corpo {
+}
+
+.endereco {
+    color: #a5a5a5;
+}
+
+.lista-qualificacoes {
+    list-style: none;
+    padding: 0;
 }
 
 @media (min-width: 1138px) {
